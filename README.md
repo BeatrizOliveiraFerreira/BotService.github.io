@@ -12,6 +12,14 @@ https://docs.microsoft.com/pt-br/azure/bot-service/abs-quickstart?view=azure-bot
 Site do Qna
 https://www.qnamaker.ai/
 
+<p> Entrando no Portal do Azure. 
+https://azure.microsoft.com/pt-br/
+
+<img src= "https://docs.microsoft.com/pt-br/azure/digital-twins/media/how-to-set-up-instance/portal/create-resource.png" />
+<p>
+* Vá na aba de criar um serviço
+* Digite QNA MAKER
+</p?
 
 
 
