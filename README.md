@@ -12,14 +12,27 @@ https://docs.microsoft.com/pt-br/azure/bot-service/abs-quickstart?view=azure-bot
 Site do Qna
 https://www.qnamaker.ai/
 
-<p> Entrando no Portal do Azure. 
+## Entrando no Portal do Azure. 
 https://azure.microsoft.com/pt-br/
 
 <img src= "https://docs.microsoft.com/pt-br/azure/digital-twins/media/how-to-set-up-instance/portal/create-resource.png" />
+
+&ensp;&ensp; <p> &#9679; &ensp;Vá na aba de criar um serviço </p>
+&ensp;&ensp; <p> &#9679; &ensp; Digite QNA MAKER </p>
+
+Documentação para criar um Serviço Bot: 
 <p>
-* Vá na aba de criar um serviço
-* Digite QNA MAKER
-</p?
+https://docs.microsoft.com/pt-br/azure/bot-service/abs-quickstart?view=azure-bot-service-4.0&tabs=userassigned
+</p>
+
+<p> 
+O que é QnA Maker?
+</p>
+<p> https://docs.microsoft.com/pt-br/azure/cognitive-services/qnamaker/overview/overview </p>
+
+
+
+
 
 
 
